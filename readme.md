@@ -36,4 +36,4 @@ sass/
 |   |– _bootstrap.scss    // Bootstrap
 |   |– _jquery-ui.scss    // jQuery UI
 |
-`– styles.scss              // Main Sass file
+– styles.scss              // Main Sass file
